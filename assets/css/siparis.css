@@ -1,0 +1,28 @@
+/* assets/css/siparis.css */
+.siparisButton {
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 10px; 
+}
+
+.siparisBtn {
+    padding: 10px 15px;
+    font-size: 16px; 
+    cursor: pointer; 
+}
+
+.alt-satir {
+    margin-top: 10px; 
+}
+
+.container{
+ border: 2px solid gray;
+ height: 230px;
+ width: 600px;
+ margin-left: 22px;
+}
+
+.footer{
+    margin-top: -174px;
+    margin-left: 400px;
+}
